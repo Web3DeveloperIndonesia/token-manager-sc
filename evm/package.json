@@ -5,16 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IndiveWeb3Community/token-manager-sc.git"
-  },
   "author": "Indive Web3 Community",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/IndiveWeb3Community/token-manager-sc/issues"
-  },
-  "homepage": "https://github.com/IndiveWeb3Community/token-manager-sc#readme",
   "description": "",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
